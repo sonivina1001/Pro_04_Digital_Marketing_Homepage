@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body{
+    background-color:#ffffff ;
+
+
+}
+
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.banner{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+}
+
+.list{
+    color: #8a8a8a;
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: larger;
+    font-display: swap;
+    }
+
+ 
+ .list-item1{
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top: 65px ;
+    left: 500px;
+ }   
+
+ .list-item2{
+    position: absolute;
+    top: 65px ;
+    left: 650px;
+ }
+
+ .list-item3{
+    position: absolute;
+    top: 65px ;
+    left: 800px;
+ }
+
+ .list-item4{
+    position: absolute;
+    top: 65px ;
+    left: 950px;
+ }
+
+ .list-item5{
+    position: absolute;
+    top: 65px ;
+    left: 1100px;
+ }
+
+ .nav-button{
+    background-color: #5955b3;
+    color: aliceblue;
+    padding: 20px 50px;
+    border: 0ch;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    font-display: swap;
+    position: absolute;
+    top: 60px;
+    left: 1400px;
+ }
+
+ .btn2{
+    font-size: medium;
+    padding: 20px 50px;
+    position: absolute;
+    top: 600px;
+    left: 150px;
+ }
+
+ h1{
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    font-size: 65px;
+    color:  #3c2f60;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+
+
+p{
+    color: #8a8a8a;
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+
+}
+
+span{
+    color: #5955b3;
+}
